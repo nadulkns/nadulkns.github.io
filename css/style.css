@@ -740,9 +740,9 @@ section:nth-child(odd) .animate.scroll{
     background: var(--second-bg-color);
 }
 
-/* .footer .animate.scroll{
-    background: var(--main-color);
-} */
+.footer .animate.scroll{
+    background: var(--bg-color);
+} 
 
 
 .education .education-box .animate.scroll{
